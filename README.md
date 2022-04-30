@@ -1,11 +1,14 @@
-### Hi there 👋, Abdelrahman Elgendy
-#### Android Developer
+### Hi there 👋, Abdelrahman Elgendy  
+#### Android Developer  ![Profile views](https://gpvc.arturio.dev/Abdelra7manElgendy) 
 I'm Abdelrahman from Egypt and I study at the faculty of computers and information technology in Tanta University. My main specialization is Computer Science I am interested in the field of AI&ML ,Android Development , Cloud Computing and web programming, and I have learned and obtained more than one certificate in the field of cloud , 5G , networking. my achievements: -I have got (HCIA-5G,HCIA-Storage,HCIA-Bigdata ,HCIA-Routing& Switching ,HCIA Datacom ,HCIA-cloud computing ,HCIA-AI,)with Huawei I also learned programming languages such as C++ ,HTML, a little bit (CSS, CSS3) ,Java and Kotlin.
 
+* ✉️  You can contact me at [abdelrahmanelgendy961@gmail.com](mailto:abdelrahmanelgendy961@gmail.com)
 
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/abdulrahmanelgendy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </a><a href="https://www.github.com/Abdelra7manElgendy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Abdelra7man El_Gendy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/abdelrahman-elgendy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
+
 
 ### Skills: 
 
@@ -16,11 +19,10 @@ I'm Abdelrahman from Egypt and I study at the faculty of computers and informati
 
 
 
-  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelra7manElgendy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abdelra7manElgendy)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelra7manElgendy)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelra7manElgendy&show_icons=true)  
 
