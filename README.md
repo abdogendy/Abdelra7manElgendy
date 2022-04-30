@@ -2,10 +2,10 @@
 #### Android Developer
 I'm Abdelrahman from Egypt and I study at the faculty of computers and information technology in Tanta University. My main specialization is Computer Science I am interested in the field of AI&ML ,Android Development , Cloud Computing and web programming, and I have learned and obtained more than one certificate in the field of cloud , 5G , networking. my achievements: -I have got (HCIA-5G,HCIA-Storage,HCIA-Bigdata ,HCIA-Routing& Switching ,HCIA Datacom ,HCIA-cloud computing ,HCIA-AI,)with Huawei I also learned programming languages such as C++ ,HTML, a little bit (CSS, CSS3) ,Java and Kotlin.
 
-## Socials:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abdelra7manElgendy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdulrahmanelgendy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/abdelrahman-elgendy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Abdulrahman_Elgendy)
+### Socials
 
+<p align="left"> <a href="https://discord.com/users/Abdelra7man El_Gendy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Abdelra7manElgendy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abdulrahmanelgendy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/abdelrahman-elgendy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 ## Skills: 
 
 <p align="left">
