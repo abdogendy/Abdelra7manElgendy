@@ -8,7 +8,7 @@ I'm Abdelrahman from Egypt and I study at the faculty of computers and informati
 
 Skills: Android Development /Java / Kotlin  / Competitive C++ / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
