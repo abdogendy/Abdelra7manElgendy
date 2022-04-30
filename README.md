@@ -1,26 +1,22 @@
-### Hi there 👋, Abdelrahman Elgendy
-#### Android Developer
-I'm Abdelrahman from Egypt and I study at the faculty of computers and information technology in Tanta University. My main specialization is Computer Science I am interested in the field of AI&ML ,Android Development , Cloud Computing and web programming, and I have learned and obtained more than one certificate in the field of cloud , 5G , networking. my achievements: -I have got (HCIA-5G,HCIA-Storage,HCIA-Bigdata ,HCIA-Routing& Switching ,HCIA Datacom ,HCIA-cloud computing ,HCIA-AI,)with Huawei I also learned programming languages such as C++ ,HTML, a little bit (CSS, CSS3) ,Java and Kotlin.
+<h1 align="center">Hi 👋, I'm Abdelrahman Elgendy</h1>
+<h3 align="center">Android Developer</h3>
 
-🌱 I’m currently learning Web development using Vue.js ,AI & ML
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelra7manelgendy&label=Profile%20views&color=0e75b6&style=flat" alt="abdelra7manelgendy" /> </p>
 
-Skills: Android Development / Java / Kotlin  / HTML / CSS
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelra7manelgendy" alt="abdelra7manelgendy" /></a> </p>
 
-- 📫 How to reach me: abdelrahmanelgendy961@gmail.com 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulrahmanelgendy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulrahmanelgendy/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abdelra7manElgendy)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Abdelra7manElgendy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abdulrahmanelgendy//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/13052943/abdelrahman-elgendy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/Abdulrahman_Elgendy)  
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelra7manelgendy&show_icons=true&locale=en&layout=compact" alt="abdelra7manelgendy" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abdelra7manElgendy)](https://github.com/ryo-ma/github-profile-trophy)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelra7manelgendy&show_icons=true&locale=en" alt="abdelra7manelgendy" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelra7manElgendy&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abdelra7manElgendy)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abdelra7manElgendy)  
-
-![Profile views](https://gpvc.arturio.dev/Abdelra7manElgendy)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelra7manElgendy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelra7manelgendy&" alt="abdelra7manelgendy" /></p>
