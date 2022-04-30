@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I study at the faculty of computers and information technology in Tanta University. My main specialization is Computer Science
+I'm Abdelrahman from Egypt and I study at the faculty of computers and information technology in Tanta University. My main specialization is Computer Science
 I am interested in the field of AI&ML ,Android Development , Cloud Computing and web programming, and I have learned and obtained more than one certificate in the field of cloud , 5G , networking.
 my achievements:
 -I have got (HCIA-5G,HCIA-Storage,HCIA-Bigdata ,HCIA-Routing& Switching ,HCIA Datacom ,HCIA-cloud computing ,HCIA-AI,)with Huawei
