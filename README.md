@@ -23,3 +23,5 @@ Skills: Android Development / Java / Kotlin  / HTML / CSS
 ![Profile views](https://gpvc.arturio.dev/Abdelra7manElgendy)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelra7manElgendy&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelra7manElgendy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
